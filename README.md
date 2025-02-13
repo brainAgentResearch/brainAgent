@@ -1,4 +1,5 @@
 # HumanBrain # BrainAgent # BrainDrive #BrainMemoryReplica #DigitalMemoryReplica
+ - Research Paper on "how to train human thought patterns": https://github.com/brainAgentResearch/brainAgent/blob/main/brainagent.pdf
 
 **Proposal for Legal Protection and Ethical Implementation of Digital Memory Replicas Or Brain Memory Replicas**
 
