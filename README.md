@@ -1,6 +1,6 @@
 ## How to train human thought patterns and create autonomous Virtual Agent (Brain Agent) or Brain Replica Or Digital Brain or Second Brain
  - Research Paper on "how to train human thought patterns": https://github.com/brainAgentResearch/brainAgent/blob/main/brainagent.pdf
-#### HumanBrain     BrainAgent     BrainDrive     BrainMemoryReplica     DigitalMemoryReplica
+####  #HumanBrain     #BrainAgent     #BrainDrive     #BrainMemoryReplica     #DigitalMemoryReplica
 ---
 **Proposal for Legal Protection and Ethical Implementation of Digital Memory Replicas Or Brain Memory Replicas**
 
